@@ -1,0 +1,13 @@
+#files and folder to exclude
+
+fileTable.txt
+
+
+#target folder inside app, model and service
+
+app/target
+model/target
+service/target
+
+
+
